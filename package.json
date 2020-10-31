@@ -1,7 +1,7 @@
 {
   "name": "discord-tutorial-bot",
   "version": "1.0.0",
-  "description": "coding-bot-discord.",
+  "description": "tutorial bot for discord.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -21,4 +21,3 @@
     "jumble-words": "^1.0.1"
   }
 }
-  
