@@ -6,8 +6,8 @@ client.db = require("quick.db");
 client.commands = new Discord.Collection();
 client.cooldown = new Discord.Collection();
 client.config = {
-    TOKEN: "token kamu",
-    prefix: "prefix bot kamu",
+    TOKEN: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    prefix: "!",
     cooldown: 15000
 };
 
